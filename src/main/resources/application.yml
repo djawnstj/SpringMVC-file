@@ -1,0 +1,8 @@
+logging:
+  level:
+    org:
+      apache:
+        coyote:
+          http11: debug
+file:
+  dir: /Users/junseo/Documents/project/Spring/upload/files/
